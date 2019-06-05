@@ -9,10 +9,9 @@ Deals with all the boilerplate involved in the setuptools setup, etc.
 
 Here's my preferred path to bliss:
 
-1. Start by installing `pipsi`.  It's awesome.
-   [Instructions here.](https://github.com/mitsuhiko/pipsi#readme)
+1. Start by installing `pip`.  [Instructions here.](https://pip.pypa.io/en/stable/installing/)
 2. Now install Cookiecutter:
-   `$ pipsi install cookiecutter`.
+   `$ pip install cookiecutter`.
 3. Now use Cookiecutter to create your brand new project:
    `$ cd ~/Desktop && cookiecutter https://github.com/nvie/cookiecutter-python-cli.git`
 
